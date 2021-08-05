@@ -1,0 +1,6 @@
+（请确保maven环境变量已配置）
+解压项目，运行根目录install.bat(Eclipse)或者install.cmd(IDEA)
+安装成功，请刷新本地仓库
+eclipse--->Maven-Update Project..
+IDEA----->File--setting--搜索maven--Repositiories--点击使用的本地库--Update
+
