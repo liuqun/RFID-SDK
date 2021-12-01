@@ -1,14 +1,78 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="3c79bd25-541b-4fee-981e-90667ff4681a" name="Default Changelist" comment="" />
-    <ignored path="$PROJECT_DIR$/out/" />
-    <ignored path="$PROJECT_DIR$/target/" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <list default="true" id="3c79bd25-541b-4fee-981e-90667ff4681a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/reader/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/reader/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/reader/App$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/reader/App$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/reader/App.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/reader/ConnectedConstant.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/reader/DestroyEpc.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/reader/GetGpiState.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/reader/GetGpiTrigger.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/reader/Lock6b.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/reader/Lock6bGet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/reader/LockEpc.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/reader/PcUtils.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/reader/Read6b$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/reader/Read6b$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/reader/Read6b.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/reader/Read6bFilter$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/reader/Read6bFilter$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/reader/Read6bFilter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/reader/ReadEpc$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/reader/ReadEpc$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/reader/ReadEpc.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/reader/ReadEpcFilter$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/reader/ReadEpcFilter$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/reader/ReadEpcFilter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/reader/ReadTagsGpiTrigger$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/reader/ReadTagsGpiTrigger$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/reader/ReadTagsGpiTrigger$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/reader/ReadTagsGpiTrigger$4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/reader/ReadTagsGpiTrigger.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/reader/SetGpiTrigger$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/reader/SetGpiTrigger$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/reader/SetGpiTrigger.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/reader/SetGpo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/reader/SetPower.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/reader/TcpClient$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/reader/TcpClient.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/reader/TcpServer$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/reader/TcpServer$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/reader/TcpServer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/reader/Write6bUserData.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/reader/WriteEpc.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/reader/WriteEpcFilter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/reader/WriteEpcReserveData.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/reader/WriteEpcUserData.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-com.reader.AppTest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/com.reader.AppTest.txt" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
   </component>
   <component name="DatabaseView">
     <option name="SHOW_INTERMEDIATE" value="true" />
@@ -24,9 +88,6 @@
     <expand />
     <select />
   </component>
-  <component name="FileEditorManager">
-    <leaf />
-  </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
@@ -38,6 +99,9 @@
     <findStrings>
       <find>byte</find>
     </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -70,12 +134,16 @@
       </MavenGeneralSettings>
     </option>
   </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
   <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
     <option name="width" value="1936" />
     <option name="height" value="1056" />
   </component>
+  <component name="ProjectId" id="21fa8n4EHOCtGQbdAkW1N89uc4h" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -140,7 +208,14 @@
       </pane>
     </panes>
   </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1557220159638" />
@@ -162,19 +237,7 @@
       <recent name="D:\svn\ReaderTest\lib" />
     </key>
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
-  <component name="RunManager" selected="Application.Lock6b">
+  <component name="RunManager" selected="Application.App">
     <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.reader.App" />
       <module name="ReaderTest" />
@@ -229,13 +292,13 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Lock6b" />
         <item itemvalue="Application.App" />
-        <item itemvalue="Bash.install.sh" />
+        <item itemvalue="Application.Lock6b" />
         <item itemvalue="Application.AppTest" />
       </list>
     </recent_temporary>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration>C:\Users\24309\AppData\Roaming\Subversion</configuration>
   </component>
@@ -309,6 +372,28 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/reader/App.java</url>
+          <line>81</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
     <entry file="jar://$PROJECT_DIR$/lib/greader-api-1.0.jar!/com/gg/reader/api/MainClass.class" />
